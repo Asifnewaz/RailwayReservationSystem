@@ -1,0 +1,50 @@
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.bg{
+	background:gray;
+}
+.myidnx{
+	width: 600px;margin-left: 350px;margin-top: 20px;
+}
+.head{text-align:center; color:#fff;}
+.container{
+	width:1000px;
+}
+
+.forminput{
+	margin-left: 200px;
+width: 600px;
+	
+}
+.widtheq{
+	width:150px;
+}
+.col-md-12{
+	margin-top:15px;
+}
+
+.list-group-item{width:500px;}
+.homelist{margin-left:260px;}
+.mainmenu{width:980px;}
+.footer{color:#fff;font-size:16px;background:#222222;width:950px;height:50px;}
+.footer p{align:center;padding:15px}
+.slider{width:950px;}
+.tablebg{background:#ffffff;}
+.selectform{float:left;width:250px;}
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.column{width:1000px;}
